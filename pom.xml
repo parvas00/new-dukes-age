@@ -15,7 +15,7 @@
     <!--</parent>-->
     
     <groupId>org.glassfish.docs</groupId>
-    <artifactId>new-dukes-age</artifactId>
+    <artifactId>dukes-age</artifactId>
     <packaging>war</packaging>
     <name>dukes-age</name>
     
